@@ -1,8 +1,10 @@
 # path_search
 ```
 Usage:
+
 cd src
 erlc *
 erl
-path:test(60, 30)
+
+path_test:t(60, 30).
 ```
