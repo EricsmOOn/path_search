@@ -1,2 +1,8 @@
 # path_search
-Erlang实现的寻路算法以及测试模块
+```
+Usage:
+cd src
+erlc *
+erl
+path:test(60, 30)
+```
