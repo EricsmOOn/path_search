@@ -1,4 +1,4 @@
-# path_search
+# A* | JPS 寻路算法
 ```
 Usage:
 
